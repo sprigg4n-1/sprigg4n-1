@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sprigg4n-1
-- 👀 I’m interested in front end developing
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning html, css, js and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
